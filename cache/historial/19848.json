@@ -1,0 +1,83 @@
+{
+ "red": 19848,
+ "boletines": [
+  {
+   "id": 18898942,
+   "fecha": "2026-08-17",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 18901458,
+   "fecha": "2026-07-28",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 17701483,
+   "fecha": "2026-01-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16885435,
+   "fecha": "2025-08-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16467911,
+   "fecha": "2025-05-27",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16429641,
+   "fecha": "2025-04-22",
+   "calificacion": "APTA",
+   "tipo": "vigilancia"
+  },
+  {
+   "id": 15806424,
+   "fecha": "2025-01-31",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11919608,
+   "fecha": "2022-02-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10457725,
+   "fecha": "2020-10-13",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8059604,
+   "fecha": "2018-01-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7129818,
+   "fecha": "2016-12-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5998219,
+   "fecha": "2015-03-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5904379,
+   "fecha": "2015-02-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

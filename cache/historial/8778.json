@@ -1,0 +1,155 @@
+{
+ "red": 8778,
+ "boletines": [
+  {
+   "id": 18908726,
+   "fecha": "2026-10-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18370962,
+   "fecha": "2026-06-19",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 17778099,
+   "fecha": "2026-02-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17411853,
+   "fecha": "2025-12-18",
+   "calificacion": "NO APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16878907,
+   "fecha": "2025-10-01",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16540099,
+   "fecha": "2025-06-27",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15925215,
+   "fecha": "2025-02-21",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15314607,
+   "fecha": "2024-11-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15203214,
+   "fecha": "2024-09-24",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14740358,
+   "fecha": "2024-07-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14411957,
+   "fecha": "2024-04-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14395117,
+   "fecha": "2024-03-22",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 13845443,
+   "fecha": "2023-11-24",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13337963,
+   "fecha": "2023-09-01",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13223241,
+   "fecha": "2023-07-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12977967,
+   "fecha": "2023-04-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12964571,
+   "fecha": "2023-03-30",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 12552920,
+   "fecha": "2022-09-20",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11992876,
+   "fecha": "2022-03-11",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 11550565,
+   "fecha": "2021-09-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11007269,
+   "fecha": "2021-03-22",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 10519506,
+   "fecha": "2020-09-28",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 10042426,
+   "fecha": "2020-03-30",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 9869825,
+   "fecha": "2019-11-12",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 8450831,
+   "fecha": "2018-07-09",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

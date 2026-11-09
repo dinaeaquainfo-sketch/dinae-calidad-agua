@@ -1,0 +1,113 @@
+{
+ "red": 932,
+ "boletines": [
+  {
+   "id": 18788558,
+   "fecha": "2026-09-21",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18302938,
+   "fecha": "2026-06-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17864246,
+   "fecha": "2026-03-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17694515,
+   "fecha": "2026-02-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17228128,
+   "fecha": "2025-11-24",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16792530,
+   "fecha": "2025-09-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16711594,
+   "fecha": "2025-08-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16410359,
+   "fecha": "2025-06-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16107341,
+   "fecha": "2025-04-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15962132,
+   "fecha": "2025-03-05",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15439790,
+   "fecha": "2024-11-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14995259,
+   "fecha": "2024-09-03",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13828839,
+   "fecha": "2023-11-20",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12831104,
+   "fecha": "2022-12-13",
+   "calificacion": "APTA",
+   "tipo": "vigilancia"
+  },
+  {
+   "id": 12687667,
+   "fecha": "2022-11-21",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11669265,
+   "fecha": "2021-11-15",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 10599989,
+   "fecha": "2020-11-16",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 9555390,
+   "fecha": "2019-10-07",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

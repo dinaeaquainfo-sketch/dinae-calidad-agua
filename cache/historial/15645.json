@@ -1,0 +1,101 @@
+{
+ "red": 15645,
+ "boletines": [
+  {
+   "id": 8521186,
+   "fecha": "2018-08-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8175567,
+   "fecha": "2018-03-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8010196,
+   "fecha": "2018-01-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7836279,
+   "fecha": "2017-11-03",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7885555,
+   "fecha": "2017-10-04",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7757977,
+   "fecha": "2017-10-03",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7631839,
+   "fecha": "2017-08-01",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7571796,
+   "fecha": "2017-07-04",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7376699,
+   "fecha": "2017-04-06",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7303457,
+   "fecha": "2017-03-03",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7248511,
+   "fecha": "2017-02-01",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7048315,
+   "fecha": "2016-10-05",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 6392691,
+   "fecha": "2015-10-09",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 5741993,
+   "fecha": "2014-10-16",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 5010384,
+   "fecha": "2013-10-02",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 4416062,
+   "fecha": "2012-10-02",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

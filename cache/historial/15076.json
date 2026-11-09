@@ -1,0 +1,29 @@
+{
+ "red": 15076,
+ "boletines": [
+  {
+   "id": 8457172,
+   "fecha": "2018-07-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7618869,
+   "fecha": "2017-07-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5518281,
+   "fecha": "2014-07-31",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4917317,
+   "fecha": "2013-08-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

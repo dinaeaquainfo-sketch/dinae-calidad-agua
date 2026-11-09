@@ -1,0 +1,119 @@
+{
+ "red": 7039,
+ "boletines": [
+  {
+   "id": 17430254,
+   "fecha": "2026-01-12",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17157205,
+   "fecha": "2025-11-06",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15716048,
+   "fecha": "2025-01-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15472600,
+   "fecha": "2024-11-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13885099,
+   "fecha": "2024-01-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13608237,
+   "fecha": "2023-11-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12880025,
+   "fecha": "2023-01-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11866178,
+   "fecha": "2022-02-04",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11727261,
+   "fecha": "2022-01-04",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10708191,
+   "fecha": "2021-01-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9904736,
+   "fecha": "2020-02-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 9745028,
+   "fecha": "2020-01-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8844884,
+   "fecha": "2019-01-03",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7989571,
+   "fecha": "2018-01-10",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7848313,
+   "fecha": "2017-11-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7285785,
+   "fecha": "2017-02-03",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7023158,
+   "fecha": "2016-10-14",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 6695210,
+   "fecha": "2016-04-20",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 1390547,
+   "fecha": "2007-06-12",
+   "calificacion": "NO APTA",
+   "tipo": "completo"
+  }
+ ]
+}

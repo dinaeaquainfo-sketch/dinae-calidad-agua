@@ -1,0 +1,445 @@
+{
+ "id": 16041188,
+ "red": "AYTO ALHAURIN DE LA TORRE-RED R 22",
+ "punto_muestreo": "PM RED EL LAGAR",
+ "zona": "ALHAURIN DE LA TORRE",
+ "fecha": "2025-03-18",
+ "tipo_boletin": "Autocontrol",
+ "tipo_analisis": "Análisis completo",
+ "laboratorios": "LABORATORIO ANAYCO, S.L.",
+ "calificacion": "APTA",
+ "parametros": [
+  {
+   "nombre": "Acrilamida (CAS 79-06-01)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Aluminio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Amonio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Antimonio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Arsénico",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bacterias coliformes",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Benceno (CAS 71-43-2)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Benzo(a)pireno (CAS 50-32-8)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bisfenol a (CAS 80-05-7)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Boro",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bromato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cadmio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cianuro total",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clorato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clorito",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloro combinado residual",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloro libre residual",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloruro",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloruro de Vinilo (CAS 75-01-4)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clostridium perfringens (incluidas las esporas)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cobre",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Colifagos somáticos",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFP/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Color",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg Pt-Co/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Conductividad",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µS/cm a 20ºC",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cromo total",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Enterococo",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Epiclorhidrina (CAS 106-89-8)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Escherichia coli",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Fluoruro",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Hierro",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Indice de Langelier",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "Unidades pH",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Manganeso",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Mercurio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Níquel",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Nitrato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Nitritos",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Olor",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "In. Dil.",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "PH",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "Unidades pH",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Plomo",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Recuento de colonias a 22ºC",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFC/1 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sabor",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "In. Dil.",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Selenio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sodio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sulfato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma total Plaguicidas",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 2 Tricloroeteno + Tetracloroeteno",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 20 PFAs",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 4 Hidrocarburos Policíclicos Aromáticos (HPA)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 4 Trihalometanos (THM)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 5 AHAs",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Turbidez",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UNF",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Uranio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "1,2-Dicloroetano (CAS 107-06-2)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Carbono Orgánico total",
+   "valor": 0.2,
+   "menor_que": false,
+   "valor_txt": "0.2",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  }
+ ]
+}

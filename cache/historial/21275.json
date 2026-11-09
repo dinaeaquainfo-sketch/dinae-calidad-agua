@@ -1,0 +1,119 @@
+{
+ "red": 21275,
+ "boletines": [
+  {
+   "id": 18953132,
+   "fecha": "2026-10-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18345191,
+   "fecha": "2026-06-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17180610,
+   "fecha": "2025-11-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16335573,
+   "fecha": "2025-05-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15473008,
+   "fecha": "2024-11-29",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14859244,
+   "fecha": "2024-08-05",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14539094,
+   "fecha": "2024-05-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13693627,
+   "fecha": "2023-11-30",
+   "calificacion": "NO APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13263390,
+   "fecha": "2023-08-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13079421,
+   "fecha": "2023-05-24",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12711103,
+   "fecha": "2022-11-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12711065,
+   "fecha": "2022-11-30",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 12389929,
+   "fecha": "2022-08-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12139213,
+   "fecha": "2022-05-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11638895,
+   "fecha": "2021-11-23",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11305060,
+   "fecha": "2021-08-12",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10641349,
+   "fecha": "2020-11-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 9673787,
+   "fecha": "2019-11-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 8772680,
+   "fecha": "2018-11-28",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

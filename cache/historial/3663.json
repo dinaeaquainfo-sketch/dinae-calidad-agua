@@ -1,0 +1,137 @@
+{
+ "red": 3663,
+ "boletines": [
+  {
+   "id": 18952630,
+   "fecha": "2026-10-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18952606,
+   "fecha": "2026-10-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18952590,
+   "fecha": "2026-10-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18907008,
+   "fecha": "2026-10-13",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18803077,
+   "fecha": "2026-09-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18803036,
+   "fecha": "2026-09-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18802671,
+   "fecha": "2026-09-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18686543,
+   "fecha": "2026-09-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18673308,
+   "fecha": "2026-08-24",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18554385,
+   "fecha": "2026-08-10",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18195532,
+   "fecha": "2026-05-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 17226205,
+   "fecha": "2025-12-01",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16357798,
+   "fecha": "2025-05-20",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14808048,
+   "fecha": "2024-07-08",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14714990,
+   "fecha": "2024-07-08",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13930822,
+   "fecha": "2024-01-08",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13866544,
+   "fecha": "2024-01-08",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 13461224,
+   "fecha": "2023-09-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13031895,
+   "fecha": "2023-03-13",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 12942067,
+   "fecha": "2023-03-13",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12538211,
+   "fecha": "2022-10-03",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12119783,
+   "fecha": "2022-05-03",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

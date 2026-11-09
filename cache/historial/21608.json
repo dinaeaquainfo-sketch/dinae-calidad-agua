@@ -1,0 +1,119 @@
+{
+ "red": 21608,
+ "boletines": [
+  {
+   "id": 18267110,
+   "fecha": "2026-06-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18219894,
+   "fecha": "2026-05-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17255781,
+   "fecha": "2025-11-27",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15836549,
+   "fecha": "2025-01-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15565523,
+   "fecha": "2024-11-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15395709,
+   "fecha": "2024-10-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15385915,
+   "fecha": "2024-09-16",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14815695,
+   "fecha": "2024-07-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13986613,
+   "fecha": "2024-01-31",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13921173,
+   "fecha": "2023-11-28",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13450703,
+   "fecha": "2023-09-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12988508,
+   "fecha": "2023-04-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12765250,
+   "fecha": "2022-11-22",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12541160,
+   "fecha": "2022-09-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11994373,
+   "fecha": "2022-03-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11732451,
+   "fecha": "2021-11-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11536546,
+   "fecha": "2021-09-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10769477,
+   "fecha": "2020-11-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 8803162,
+   "fecha": "2018-11-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

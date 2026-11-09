@@ -1,0 +1,35 @@
+{
+ "red": 22002,
+ "boletines": [
+  {
+   "id": 10082555,
+   "fecha": "2020-03-03",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 9769618,
+   "fecha": "2019-12-02",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9511182,
+   "fecha": "2019-09-11",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9275813,
+   "fecha": "2019-03-12",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9275812,
+   "fecha": "2019-03-12",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  }
+ ]
+}

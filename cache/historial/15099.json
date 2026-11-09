@@ -1,0 +1,65 @@
+{
+ "red": 15099,
+ "boletines": [
+  {
+   "id": 18533652,
+   "fecha": "2026-07-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16550594,
+   "fecha": "2025-07-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14763693,
+   "fecha": "2024-07-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13450726,
+   "fecha": "2023-09-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12332704,
+   "fecha": "2022-07-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11241813,
+   "fecha": "2021-07-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10788112,
+   "fecha": "2020-07-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9368782,
+   "fecha": "2019-07-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8483057,
+   "fecha": "2018-07-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7627185,
+   "fecha": "2017-07-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "red": 8240,
+ "boletines": [
+  {
+   "id": 5608272,
+   "fecha": "2014-10-02",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5342958,
+   "fecha": "2014-05-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5025825,
+   "fecha": "2013-10-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4752762,
+   "fecha": "2013-05-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4310946,
+   "fecha": "2012-10-10",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4160567,
+   "fecha": "2012-07-17",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 4050492,
+   "fecha": "2012-05-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3615315,
+   "fecha": "2011-10-11",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3387836,
+   "fecha": "2011-05-18",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 2971572,
+   "fecha": "2010-10-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 2717619,
+   "fecha": "2010-05-18",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

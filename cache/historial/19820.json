@@ -1,0 +1,143 @@
+{
+ "red": 19820,
+ "boletines": [
+  {
+   "id": 18881809,
+   "fecha": "2026-09-17",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 18339836,
+   "fecha": "2026-06-09",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 17114952,
+   "fecha": "2025-11-12",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17107373,
+   "fecha": "2025-09-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15638396,
+   "fecha": "2024-11-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 14583024,
+   "fecha": "2024-05-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13810622,
+   "fecha": "2023-12-27",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13182699,
+   "fecha": "2023-06-23",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 12703340,
+   "fecha": "2022-11-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12131554,
+   "fecha": "2022-05-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11616009,
+   "fecha": "2021-11-22",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11247605,
+   "fecha": "2021-06-25",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 11091552,
+   "fecha": "2021-05-24",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10650827,
+   "fecha": "2020-11-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 10118100,
+   "fecha": "2020-05-18",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 9674327,
+   "fecha": "2019-11-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 9179339,
+   "fecha": "2019-05-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8743453,
+   "fecha": "2018-11-20",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7808146,
+   "fecha": "2017-10-23",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7366576,
+   "fecha": "2017-03-27",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7006178,
+   "fecha": "2016-10-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6331041,
+   "fecha": "2015-10-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5787460,
+   "fecha": "2014-10-24",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

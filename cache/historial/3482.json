@@ -1,0 +1,119 @@
+{
+ "red": 3482,
+ "boletines": [
+  {
+   "id": 10522114,
+   "fecha": "2020-10-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10314440,
+   "fecha": "2020-07-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7645353,
+   "fecha": "2017-08-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 7406459,
+   "fecha": "2017-04-24",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6896532,
+   "fecha": "2016-08-18",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6753225,
+   "fecha": "2016-05-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6211646,
+   "fecha": "2015-08-26",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5542117,
+   "fecha": "2014-08-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4965771,
+   "fecha": "2013-08-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4755685,
+   "fecha": "2013-05-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4155862,
+   "fecha": "2012-07-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 3854055,
+   "fecha": "2012-01-17",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 3604806,
+   "fecha": "2011-09-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 2964551,
+   "fecha": "2010-06-07",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 2138484,
+   "fecha": "2009-05-04",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 1627740,
+   "fecha": "2008-07-28",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 1093815,
+   "fecha": "2007-08-06",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 786928,
+   "fecha": "2006-07-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 687396,
+   "fecha": "2005-11-23",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

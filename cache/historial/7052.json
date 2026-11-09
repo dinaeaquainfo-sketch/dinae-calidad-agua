@@ -1,0 +1,89 @@
+{
+ "red": 7052,
+ "boletines": [
+  {
+   "id": 18556367,
+   "fecha": "2026-08-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17280374,
+   "fecha": "2025-12-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17194386,
+   "fecha": "2025-11-18",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16677380,
+   "fecha": "2025-08-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16299002,
+   "fecha": "2025-05-21",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15485782,
+   "fecha": "2024-12-11",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14880625,
+   "fecha": "2024-08-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14487749,
+   "fecha": "2024-05-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13682347,
+   "fecha": "2023-12-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13276019,
+   "fecha": "2023-08-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12352385,
+   "fecha": "2022-08-11",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6159815,
+   "fecha": "2015-07-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 5633164,
+   "fecha": "2014-10-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 846410,
+   "fecha": "2006-05-16",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

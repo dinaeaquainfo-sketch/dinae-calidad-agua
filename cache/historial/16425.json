@@ -1,0 +1,119 @@
+{
+ "red": 16425,
+ "boletines": [
+  {
+   "id": 18622505,
+   "fecha": "2026-08-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16683676,
+   "fecha": "2025-08-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16100487,
+   "fecha": "2025-04-04",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15959401,
+   "fecha": "2025-02-17",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15456423,
+   "fecha": "2024-12-04",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14858778,
+   "fecha": "2024-08-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14369633,
+   "fecha": "2024-04-10",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14350775,
+   "fecha": "2024-02-21",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13241397,
+   "fecha": "2023-08-02",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13084916,
+   "fecha": "2023-03-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12460875,
+   "fecha": "2022-09-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12271629,
+   "fecha": "2022-06-29",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12271786,
+   "fecha": "2022-01-03",
+   "calificacion": "GESTIONADA POR LA CONSEJERÍA",
+   "tipo": "radiactividad"
+  },
+  {
+   "id": 11205398,
+   "fecha": "2021-06-21",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 10604823,
+   "fecha": "2020-11-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10274112,
+   "fecha": "2020-06-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7079445,
+   "fecha": "2016-10-25",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 6400582,
+   "fecha": "2015-10-26",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 5710787,
+   "fecha": "2014-10-23",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

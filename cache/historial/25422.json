@@ -1,0 +1,29 @@
+{
+ "red": 25422,
+ "boletines": [
+  {
+   "id": 18677435,
+   "fecha": "2026-07-06",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 17468216,
+   "fecha": "2026-01-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17411878,
+   "fecha": "2025-12-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 17036891,
+   "fecha": "2025-10-31",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

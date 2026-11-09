@@ -1,0 +1,35 @@
+{
+ "red": 23426,
+ "boletines": [
+  {
+   "id": 18947921,
+   "fecha": "2026-10-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16957975,
+   "fecha": "2025-10-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15196495,
+   "fecha": "2024-10-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13510508,
+   "fecha": "2023-10-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12549112,
+   "fecha": "2022-10-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

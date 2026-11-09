@@ -1,0 +1,41 @@
+{
+ "red": 19851,
+ "boletines": [
+  {
+   "id": 15923781,
+   "fecha": "2025-02-25",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12480648,
+   "fecha": "2022-09-27",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11432727,
+   "fecha": "2021-09-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 8521227,
+   "fecha": "2018-08-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6273273,
+   "fecha": "2015-09-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6149046,
+   "fecha": "2015-05-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

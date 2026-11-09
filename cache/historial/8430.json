@@ -1,0 +1,83 @@
+{
+ "red": 8430,
+ "boletines": [
+  {
+   "id": 5708857,
+   "fecha": "2014-11-28",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5556401,
+   "fecha": "2014-09-08",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5343327,
+   "fecha": "2014-05-20",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 5180759,
+   "fecha": "2014-03-17",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4733587,
+   "fecha": "2013-05-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 4427291,
+   "fecha": "2012-11-12",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 4094199,
+   "fecha": "2012-06-14",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3928523,
+   "fecha": "2012-03-05",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3762027,
+   "fecha": "2011-11-07",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 3688223,
+   "fecha": "2011-09-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3688218,
+   "fecha": "2011-09-15",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3464058,
+   "fecha": "2011-06-09",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 3084681,
+   "fecha": "2010-11-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

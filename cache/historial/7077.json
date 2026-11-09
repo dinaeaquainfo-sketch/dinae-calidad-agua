@@ -1,0 +1,41 @@
+{
+ "red": 7077,
+ "boletines": [
+  {
+   "id": 12831976,
+   "fecha": "2022-12-12",
+   "calificacion": "APTA",
+   "tipo": "vigilancia"
+  },
+  {
+   "id": 8511470,
+   "fecha": "2018-08-13",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7643358,
+   "fecha": "2017-08-09",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7502094,
+   "fecha": "2017-06-07",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 6897930,
+   "fecha": "2016-08-09",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 6785320,
+   "fecha": "2016-06-06",
+   "calificacion": "APTA",
+   "tipo": "control"
+  }
+ ]
+}

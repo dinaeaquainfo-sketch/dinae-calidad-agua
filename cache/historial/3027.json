@@ -1,0 +1,125 @@
+{
+ "red": 3027,
+ "boletines": [
+  {
+   "id": 18953245,
+   "fecha": "2026-09-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 18830998,
+   "fecha": "2026-09-30",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 18114864,
+   "fecha": "2026-05-05",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16869388,
+   "fecha": "2025-09-12",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 16378779,
+   "fecha": "2025-05-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 15147027,
+   "fecha": "2024-09-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 15007255,
+   "fecha": "2024-09-10",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 14527923,
+   "fecha": "2024-05-16",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13450669,
+   "fecha": "2023-09-21",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 13368857,
+   "fecha": "2023-09-21",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 13076351,
+   "fecha": "2023-05-29",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12899130,
+   "fecha": "2023-01-19",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 12474304,
+   "fecha": "2022-09-22",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 12105540,
+   "fecha": "2022-05-12",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 11760417,
+   "fecha": "2022-01-13",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11179941,
+   "fecha": "2021-06-10",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 11051055,
+   "fecha": "2021-05-06",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 10743101,
+   "fecha": "2020-06-15",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 8806262,
+   "fecha": "2018-11-05",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 7235200,
+   "fecha": "2016-11-14",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

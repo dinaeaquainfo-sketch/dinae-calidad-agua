@@ -1,0 +1,23 @@
+{
+ "red": 25013,
+ "boletines": [
+  {
+   "id": 18474634,
+   "fecha": "2026-06-30",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  },
+  {
+   "id": 17165193,
+   "fecha": "2025-11-19",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
+   "id": 16525584,
+   "fecha": "2025-06-05",
+   "calificacion": "APTA",
+   "tipo": "completo"
+  }
+ ]
+}

@@ -1,0 +1,797 @@
+{
+ "id": 12157942,
+ "red": "MG-MIJAS COSTA-RED LA SIESTA DE MIJAS GOLF",
+ "punto_muestreo": "PM 2. CTRO (ST)",
+ "zona": "ZA LA SIESTA DE MIJAS GOLF",
+ "fecha": "2022-05-19",
+ "tipo_boletin": "Autocontrol",
+ "tipo_analisis": "Análisis completo",
+ "laboratorios": "LABORATORIO BIOCEAN-AGUAS, S.L.",
+ "calificacion": "APTA",
+ "parametros": [
+  {
+   "nombre": "Acrilamida (CAS 79-06-01)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Aluminio",
+   "valor": 60.0,
+   "menor_que": false,
+   "valor_txt": "60",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Amonio",
+   "valor": 0.05,
+   "menor_que": false,
+   "valor_txt": "0.05",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Antimonio",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Arsénico",
+   "valor": 4.0,
+   "menor_que": false,
+   "valor_txt": "4",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bacterias coliformes",
+   "valor": 0.0,
+   "menor_que": false,
+   "valor_txt": "0",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Benceno (CAS 71-43-2)",
+   "valor": 0.25,
+   "menor_que": false,
+   "valor_txt": "0.25",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Benzo(a)pireno (CAS 50-32-8)",
+   "valor": 0.003,
+   "menor_que": false,
+   "valor_txt": "0.0030",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bisfenol a (CAS 80-05-7)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Boro",
+   "valor": 0.05,
+   "menor_que": false,
+   "valor_txt": "0.05",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Bromato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cadmio",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1.0",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cianuro total",
+   "valor": 12.0,
+   "menor_que": false,
+   "valor_txt": "12",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clorato",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clorito",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloro combinado residual",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloro libre residual",
+   "valor": 0.2,
+   "menor_que": false,
+   "valor_txt": "0.2",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloruro",
+   "valor": 78.0,
+   "menor_que": false,
+   "valor_txt": "78",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cloruro de Vinilo (CAS 75-01-4)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Clostridium perfringens (incluidas las esporas)",
+   "valor": 0.0,
+   "menor_que": false,
+   "valor_txt": "0",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cobre",
+   "valor": 0.06,
+   "menor_que": false,
+   "valor_txt": "0.06",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Colifagos somáticos",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "UFP/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Color",
+   "valor": 3.0,
+   "menor_que": false,
+   "valor_txt": "3",
+   "unidad": "mg Pt-Co/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Conductividad",
+   "valor": 871.0,
+   "menor_que": false,
+   "valor_txt": "871",
+   "unidad": "µS/cm a 20ºC",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Cromo total",
+   "valor": 5.0,
+   "menor_que": false,
+   "valor_txt": "5",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Enterococo",
+   "valor": 0.0,
+   "menor_que": false,
+   "valor_txt": "0",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Epiclorhidrina (CAS 106-89-8)",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Escherichia coli",
+   "valor": 0.0,
+   "menor_que": false,
+   "valor_txt": "0",
+   "unidad": "UFC/100 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Fluoruro",
+   "valor": 0.46,
+   "menor_que": false,
+   "valor_txt": "0.46",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Hierro",
+   "valor": 50.0,
+   "menor_que": false,
+   "valor_txt": "50",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Indice de Langelier",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "Unidades pH",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Manganeso",
+   "valor": 5.0,
+   "menor_que": false,
+   "valor_txt": "5",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Mercurio",
+   "valor": 0.1,
+   "menor_que": false,
+   "valor_txt": "0.1",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Níquel",
+   "valor": 9.0,
+   "menor_que": false,
+   "valor_txt": "9",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Nitrato",
+   "valor": 3.0,
+   "menor_que": false,
+   "valor_txt": "3",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Nitritos",
+   "valor": 0.011,
+   "menor_que": false,
+   "valor_txt": "0.011",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Olor",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "In. Dil.",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "PH",
+   "valor": 7.58,
+   "menor_que": false,
+   "valor_txt": "7.58",
+   "unidad": "Unidades pH",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Plomo",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1.0",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Recuento de colonias a 22ºC",
+   "valor": 0.0,
+   "menor_que": false,
+   "valor_txt": "0",
+   "unidad": "UFC/1 ml",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sabor",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "In. Dil.",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Selenio",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sodio",
+   "valor": 33.0,
+   "menor_que": false,
+   "valor_txt": "33",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Sulfato",
+   "valor": 91.0,
+   "menor_que": false,
+   "valor_txt": "91",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma total Plaguicidas",
+   "valor": 0.5,
+   "menor_que": false,
+   "valor_txt": "0.50",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 2 Tricloroeteno + Tetracloroeteno",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 20 PFAs",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 4 Hidrocarburos Policíclicos Aromáticos (HPA)",
+   "valor": 0.012,
+   "menor_que": false,
+   "valor_txt": "0.012",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 4 Trihalometanos (THM)",
+   "valor": 9.0,
+   "menor_que": false,
+   "valor_txt": "9",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Suma 5 AHAs",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Turbidez",
+   "valor": 0.55,
+   "menor_que": false,
+   "valor_txt": "0.55",
+   "unidad": "UNF",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Uranio",
+   "valor": null,
+   "menor_que": false,
+   "valor_txt": "",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "1,2-Dicloroetano (CAS 107-06-2)",
+   "valor": 0.3,
+   "menor_que": false,
+   "valor_txt": "0.3",
+   "unidad": "µg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Carbono Orgánico total",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1.0",
+   "unidad": "mg/L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "Oxidabilidad",
+   "valor": 0.9,
+   "menor_que": false,
+   "valor_txt": "0.9",
+   "unidad": "mg O2 /L",
+   "grupo": "obligatorio"
+  },
+  {
+   "nombre": "PLA: NA_Atrazina_1912-24-9",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: A_Glifosato_1071-83-6",
+   "valor": 0.05,
+   "menor_que": false,
+   "valor_txt": "0.05",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "MET: DDE, p,p´_72-55-9",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_HCH gamma o LINDANO_58-89-9",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Cloroformo CAS 67-66-3",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Ametrina_834-12-8",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Tetracloroeteno CAS 127-18-4",
+   "valor": 0.5,
+   "menor_que": false,
+   "valor_txt": "0.500",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "ISO: HCH alfa o alfa-BHC_319-84-6",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "ISO: DDT, p,p´ (Clofenotane o Diclophane)_50-29-3",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Fenclorfos (trolene or Ronnel)_299-84-3",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Benzo(k)fluoranteno CAS 207-08-9",
+   "valor": 0.003,
+   "menor_que": false,
+   "valor_txt": "0.0030",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Paration etil (paration)_56-38-2",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "MET: Endosulfan sulfato_1031-07-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Bromofos etil_4824-78-6",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Hexaclorobenceno o HCB_118-74-1",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Heptacloro_76-44-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Trietazina (Chlortriazine)_1912-26-1",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Dibromoclorometano CAS 124-48-1",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Metidation_950-37-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Diclorfention o Diclofention_97-17-6",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Molinato_2212-67-1",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Bromoformo CAS 75-25-2",
+   "valor": 8.0,
+   "menor_que": false,
+   "valor_txt": "8",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Bromofos metil (Bromofos)_2104-96-3",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Clorfenvinfos_470-90-6",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: A_Oxifluorfen_42874-03-3",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Benzo(ghi)perileno CAS 191-24-2",
+   "valor": 0.003,
+   "menor_que": false,
+   "valor_txt": "0.0030",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Fenitrotion_122-14-5",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Simazina_122-34-9",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Prometrina_7287-19-6",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "MET: NA_Heptacloro epoxido_1024-57-3",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "ISO: HCH delta o delta-BHC_319-86-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Tricloroeteno CAS 79-01-6",
+   "valor": 0.5,
+   "menor_que": false,
+   "valor_txt": "0.500",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Aldrin_309-00-2",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Trifluralina_1582-09-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Endrin_72-20-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Bromodiclorometano CAS 75-27-4",
+   "valor": 1.0,
+   "menor_que": false,
+   "valor_txt": "1",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Clorpirifos (clorpirifos etil)_2921-88-2",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Tetraclorvinfos o Stirofos_22248-79-9",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "ISO: Endosulfan alfa_959-98-8",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: A_Terbutilazina_5915-41-3",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "Benzo(b)fluoranteno CAS 205-99-2",
+   "valor": 0.003,
+   "menor_que": false,
+   "valor_txt": "0.0030",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "PLA: NA_Terbutrina_886-50-0",
+   "valor": 0.02,
+   "menor_que": false,
+   "valor_txt": "0.02",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  },
+  {
+   "nombre": "ISO: HCH beta o beta-BHC_319-85-7",
+   "valor": 0.01,
+   "menor_que": false,
+   "valor_txt": "0.01",
+   "unidad": "µg/L",
+   "grupo": "opcional"
+  }
+ ]
+}
