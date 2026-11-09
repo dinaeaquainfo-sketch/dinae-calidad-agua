@@ -1,0 +1,53 @@
+name: Sincronizar SINAC
+
+on:
+  schedule:
+    # Domingos a las 03:17 UTC (madrugada en España, fuera de horas de uso del portal)
+    - cron: "17 3 * * 0"
+  workflow_dispatch:
+    inputs:
+      municipios:
+        description: "Opcional: códigos INE separados por comas para una prueba (vacío = provincia completa)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sincronizar-sinac
+  cancel-in-progress: false
+
+jobs:
+  sincronizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: sync/requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r sync/requirements.txt
+
+      - name: Descargar datos del SINAC (provincia de Málaga)
+        run: |
+          python sync/sinac_sync.py --ccaa 1 --provincia 29 \
+            --municipios "${{ github.event.inputs.municipios }}" \
+            --delay 2.5 --max-minutos 330
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "dinae-sinac-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data cache
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Datos SINAC $(date -u +%Y-%m-%d)"
+            git push
+          fi
