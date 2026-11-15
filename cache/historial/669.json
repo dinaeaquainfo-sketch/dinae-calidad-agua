@@ -2,6 +2,12 @@
  "red": 669,
  "boletines": [
   {
+   "id": 19012001,
+   "fecha": "2026-10-18",
+   "calificacion": "APTA",
+   "tipo": "radiactividad"
+  },
+  {
    "id": 18512221,
    "fecha": "2026-07-28",
    "calificacion": "APTA",

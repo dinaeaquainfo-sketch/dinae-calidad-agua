@@ -2,6 +2,12 @@
  "red": 6056,
  "boletines": [
   {
+   "id": 19033011,
+   "fecha": "2026-11-05",
+   "calificacion": "APTA",
+   "tipo": "control"
+  },
+  {
    "id": 18575262,
    "fecha": "2026-08-10",
    "calificacion": "APTA",
